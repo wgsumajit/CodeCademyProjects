@@ -1,0 +1,32 @@
+.header {
+    background-image: url('dasmato\images\pattern.jpeg');
+    background-size: cover;
+    text-align: center;
+    padding: 50px 0;letter-spacing: normal;
+}
+.header h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+.brushes {
+    background-color: mediumspringgreen;
+}
+.brushes {
+    font-family: Helvitica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.frames{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.price{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
